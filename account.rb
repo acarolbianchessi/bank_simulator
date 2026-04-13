@@ -15,7 +15,7 @@ class Account
             qtd100 = (value/100)
             value -= qtd100*100
             puts "Notas de 100: #{qtd100}"
-        
+        puts "bom dia"
             qtd50 = (value/50)
             value -= qtd50*50
             puts "Notas de 50: #{qtd50}"
